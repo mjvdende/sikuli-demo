@@ -1,0 +1,13 @@
+.classpath
+.project
+.settings
+.factorypath
+/*/target
+/target
+/lib/libs
+.idea/
+*.log
+*.iml
+*.tmp
+.DS_Store
+
