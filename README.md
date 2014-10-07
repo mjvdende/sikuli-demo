@@ -1,5 +1,5 @@
 # Sikuli demo
-[![Build Status](https://travis-ci.org/mjvdende/sikuli-demo.svg?branch=step-01)](https://travis-ci.org/mjvdende/sikuli-demo)
+[![Build Status](https://travis-ci.org/mjvdende/sikuli-demo.svg?branch=step-02)](https://travis-ci.org/mjvdende/sikuli-demo)
 
 This project aims to provide an example implementation of the [PageObjects](https://code.google.com/p/selenium/wiki/PageObjects) pattern for [SikuliX](http://www.sikulix.com/)
 
